@@ -19,11 +19,11 @@
    - C++
    - etc...
 5. 공부할 언어의 기본 문법 및 기초를 이해한다.
-   - 자바: https://www.codeit.kr/courses/intro-to-java/topics/java-basics 
+   - 자바: https://www.codeit.kr/courses/intro-to-java/topics/java-basics
    - 파이썬: https://www.codeit.kr/courses/intro-to-python-programming/topics/getting-started-with-python
 6. 알고리즘 문제를 푼다!
    - https://www.acmicpc.net/step
-   - 국내 사이트 
+   - 국내 사이트
      - [백준(BOJ)](https://www.acmicpc.net/)
      - [프로그래머스](https://programmers.co.kr/learn/challenges)
      - [알고스팟](https://algospot.com/judge/problem/list/)
@@ -33,4 +33,3 @@
      - [Hackerrank](https://www.hackerrank.com/dashboard)
      - [Codeforces](https://codeforces.com/)
 
- 
